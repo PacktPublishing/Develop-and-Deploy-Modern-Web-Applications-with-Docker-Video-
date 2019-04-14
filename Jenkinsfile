@@ -8,7 +8,7 @@ pipeline {
               sh "cd /home/coreopt1/"
               sh "mkdir -p /home/coreopt1/project"
               sh "cd /home/coreopt1/project"
-              sh "git clone https://github.com/dockerpackt/docker.git /home/coreopt1/project"
+              sh "git clone https://github.com/PacktPublishing/Develop-and-Deploy-Modern-Web-Applications-with-Docker-Video-.git /home/coreopt1/project"
                
                }
          }
