@@ -23,10 +23,10 @@ By the end of the course, you’ll be able to deploy complex web applications ea
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 
-●	JDK 8+ <br/>
-●	Android Studio<br/>
-●	Firebase and Google Account<br/>
-●	Git: Optional<br/>
+●	Some exposure to Linux <br/>
+●	Knowledge about containers<br/>
+●	VirtualBox or VMWare<br/>
+
 <br/>
 ### Exercise Files  <br/>
 The exercise files in this course are:<br/>
